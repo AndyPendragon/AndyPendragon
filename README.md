@@ -1,16 +1,11 @@
-### Hi there 👋
+```yaml
+name: Andy Nekena RATOETRARIVO
+located_in: Madagascar
+current_job: CS Student, now in 2nd year of undergraduate degree
+education: [
+	"Actually in CS degree at Haute École d'Informatique de Madagascar",
+	"Baccalaureate at High School Jules Ferry Faravohitra, Antananarivo",
+	"College certificate at College Notre Dame du Bon Remède, Antananarivo",
+]
 
-<!--
-**AndyPendragon/AndyPendragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
