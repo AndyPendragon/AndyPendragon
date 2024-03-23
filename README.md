@@ -13,3 +13,5 @@ education: [
 
 volunteer_at: Better Tomorrow Global for the MentorMe Program
 ```
+
+[![My Skills](https://skillicons.dev/icons?i=aws,bash,py,spring,postgres,react,nodejs,neovim,figma&perline=3)](https://skillicons.dev)
