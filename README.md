@@ -2,8 +2,8 @@
 name: Andy Ratoetrarivo
 location: Antananarivo, Madagascar
 
-aspiring_goals: To become a product manager for mobile apps and an expert in cybersecurity and cloud technology.
-current_status: Currently a second-year computer science student.
+aspiring_goals: To become an expert in cybersecurity and cloud technology.
+current_status: Currently a third-year computer science student.
 university: Haute École d'Informatique - Antananarivo, Madagascar
 
 education: [
@@ -11,7 +11,6 @@ education: [
     "College certificate from College Notre Dame du Bon Remède, Antananarivo",
 ]
 
-volunteer_at: Better Tomorrow Global for the MentorMe Program
 ```
 My daily technologies:
 
